@@ -1,4 +1,4 @@
-# EMG Practical Workshop for 3rd-Year Bachelor IT Students
+# EMG Practical Workshop for 3rd-Year Bachelor Students
 
 This repository contains a guided EMG practical experiment designed to help students move from signal understanding to data-driven movement classification.
 
