@@ -19,6 +19,7 @@ By the end of the practical, students should be able to explain not only model r
 - [experiment.ipynb](experiment.ipynb): Main practical notebook (step-by-step tutorial and experiments).
 - [dataset_experiment](dataset_experiment): EMG dataset folders and CSV files.
 - [LICENSE](LICENSE): License information.
+- [Download Slide Presentation](B3-Workshop-EMG-2026.pdf): The World of EMG
 
 ## Dataset Details
 
